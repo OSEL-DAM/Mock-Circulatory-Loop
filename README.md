@@ -20,7 +20,7 @@ The USER MANUAL references these suporting documents and the journal article by 
 
 ## [Technical Recommendations](Technical%20Recommendations.pdf) (3 Page)
 
-Contains recommendations for users who wish to use their own MCL for device testing. The recommendations guide users on how to generate MCL test evidence in regulatory submissions in alignment with the [**ISO 14708-5:2020**](https://www.iso.org/standard/69898.html) standard. This document references the supporting documents, [**USER MANUAL: Mock Circulatory Loop (MCL) Setup and Testing**](USER%20MANUAL_Mock%20Circulatory%20Loop%20(MCL)%20Setup%20and%20Testing.pdf) (18 Pages) and [**MCL Repeatability Testing**](MCL%20Repeatability%20Testing.pdf) (3 Page), and the journal article by [**D'Souza et al., 2024**](https://asmedigitalcollection.asme.org/biomechanical/article/146/1/011004/1169328/Using-a-Mock-Circulatory-Loop-as-a-Regulatory).
+Contains recommendations for users who wish to use their own MCL for device testing. The recommendations guide users on how to generate MCL test evidence in regulatory submissions in alignment with the [**ISO 14708-5:2020**](https://www.iso.org/standard/69898.html) standard. This document references the supporting documents, [**USER MANUAL: Mock Circulatory Loop (MCL) Setup and Testing**](USER%20MANUAL_Mock%20Circulatory%20Loop%20(MCL)%20Setup%20and%20Testing.pdf) (20 Pages) and [**MCL Repeatability Testing**](MCL%20Repeatability%20Testing.pdf) (3 Page), and the journal article by [**D'Souza et al., 2024**](https://asmedigitalcollection.asme.org/biomechanical/article/146/1/011004/1169328/Using-a-Mock-Circulatory-Loop-as-a-Regulatory).
 
 
 ## [Summary of V&V Activities](Summary%20of%20V%26V%20Activities.pdf) (5 Pages)
